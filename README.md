@@ -22,4 +22,4 @@
 
     The metric of evaluation for the prediction is Normalized Root Mean Squared Error (RMSE). The score is calculated by (1-rmse/normalization factor)*100.
     
-!https://github.com/YempatiKarthik/Predict-the-mortality-rate-covid-19-/blob/main/1.jpg    
+![Results](https://github.com/YempatiKarthik/Predict-the-mortality-rate-covid-19-/blob/main/1.jpg)    
